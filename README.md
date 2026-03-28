@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bharti-10/bharti-10/main/github banner.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Bharti Chandak</h1>
 <h3 align="center">BTech second year student from India</h3>
 
